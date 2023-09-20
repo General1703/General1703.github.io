@@ -1,7 +1,6 @@
 body {
-  justify-content: center; 
+  justify-content: center;
 }
-
 .desktop-container {
   width: 100%;
   display: flex;
@@ -10,7 +9,6 @@ body {
   align-items: center;
   flex-direction: column;
 }
-
 .desktop-desktop {
   width: 100%;
   height: 1071px;
@@ -20,7 +18,6 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-
 .desktop-image1 {
   top: 0px;
   left: 0px;
@@ -29,7 +26,6 @@ body {
   opacity: 1;
   position: absolute;
 }
-
 .desktop-rectangle33 {
   top: 253px;
   left: 55px;
@@ -37,7 +33,6 @@ body {
   height: 278px;
   position: absolute;
 }
-
 .desktop-rectangle2 {
   top: 14px;
   left: 36px;
@@ -45,7 +40,6 @@ body {
   height: 1033px;
   position: absolute;
 }
-
 .desktop-rectangle26 {
   top: 468px;
   left: 1034px;
@@ -55,7 +49,6 @@ body {
   position: absolute;
   border-radius: 25px;
 }
-
 .desktop-rectangle27 {
   top: 14px;
   left: 1034px;
@@ -65,7 +58,6 @@ body {
   position: absolute;
   border-radius: 25px;
 }
-
 .desktop-rectangle25 {
   top: 473px;
   left: 469px;
@@ -75,7 +67,6 @@ body {
   position: absolute;
   border-radius: 25px;
 }
-
 .desktop-rectangle28 {
   top: 17px;
   left: 469px;
@@ -85,7 +76,6 @@ body {
   position: absolute;
   border-radius: 25px;
 }
-
 .desktop-rectangle10 {
   top: 912px;
   left: 137px;
@@ -94,7 +84,6 @@ body {
   position: absolute;
   border-radius: 114px;
 }
-
 .desktop-text {
   top: 19px;
   left: 566px;
@@ -110,7 +99,6 @@ body {
   font-stretch: normal;
   text-decoration: underline;
 }
-
 .desktop-text02 {
   top: 483px;
   left: 508px;
@@ -126,7 +114,6 @@ body {
   font-stretch: normal;
   text-decoration: underline;
 }
-
 .desktop-text04 {
   top: 473px;
   left: 1140px;
@@ -142,7 +129,6 @@ body {
   font-stretch: normal;
   text-decoration: underline;
 }
-
 .desktop-text06 {
   top: 17px;
   left: 1108px;
@@ -158,7 +144,6 @@ body {
   font-stretch: normal;
   text-decoration: underline;
 }
-
 .desktop-text08 {
   top: 790px;
   left: 55px;
@@ -175,98 +160,86 @@ body {
   font-stretch: normal;
   text-decoration: underline;
 }
-
 .desktop-rectangle11input {
   top: 194px;
   left: 536px;
   width: 405px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-rectangle30input {
   top: 305px;
   left: 536px;
   width: 405px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-rectangle31input {
   top: 305px;
   left: 1101px;
   width: 405px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-rectangle18input {
   top: 192px;
   left: 1101px;
   width: 405px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-rectangle19input {
   top: 646px;
   left: 536px;
   width: 405px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px
-  4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-rectangle32input {
   top: 759px;
   left: 536px;
   width: 405px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-rectangle20button {
   top: 568px;
   left: 1101px;
   width: 405px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-rectangle21button {
   top: 795px;
   left: 1101px;
   width: 405px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-rectangle22button {
   top: 680px;
   left: 1101px;
   width: 405px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-rectangle29button {
   top: 922px;
   left: 894px;
   width: 246px;
   height: 87px;
   position: absolute;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
 }
-
 .desktop-text10 {
   top: 944px;
   left: 978px;
@@ -282,7 +255,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-text12 {
   top: 702px;
   left: 1125px;
@@ -299,7 +271,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-text14 {
   top: 584px;
   left: 1129px;
@@ -316,7 +287,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-text15 {
   top: 815px;
   left: 1125px;
@@ -333,7 +303,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-frame1 {
   top: 503px;
   left: 600px;
@@ -345,7 +314,6 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-
 .desktop-ellipse1button {
   top: 916px;
   left: 43px;
@@ -353,7 +321,6 @@ body {
   height: 81px;
   position: absolute;
 }
-
 .desktop-text17 {
   top: 905px;
   left: 61px;
@@ -369,7 +336,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-ellipse7button {
   top: 570px;
   left: 615px;
@@ -377,7 +343,6 @@ body {
   height: 43px;
   position: absolute;
 }
-
 .desktop-text18 {
   top: 568px;
   left: 626px;
@@ -393,7 +358,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-text19 {
   top: 570px;
   left: 668px;
@@ -410,7 +374,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-ellipse8button {
   top: 118px;
   left: 653px;
@@ -418,7 +381,6 @@ body {
   height: 43px;
   position: absolute;
 }
-
 .desktop-text21 {
   top: 116px;
   left: 664px;
@@ -434,7 +396,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-text22 {
   top: 118px;
   left: 706px;
@@ -451,7 +412,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-ellipse9button {
   top: 111px;
   left: 1218px;
@@ -459,7 +419,6 @@ body {
   height: 43px;
   position: absolute;
 }
-
 .desktop-text24 {
   top: 107px;
   left: 1229px;
@@ -475,7 +434,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-text25 {
   top: 109px;
   left: 1271px;
@@ -492,7 +450,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-text27 {
   top: 29px;
   left: 36px;
@@ -509,7 +466,6 @@ body {
   font-stretch: normal;
   text-decoration: none;
 }
-
 .desktop-text29 {
   top: 932px;
   left: 161px;
