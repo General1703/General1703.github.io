@@ -3,29 +3,36 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 70%;
+  width: 100%;
 }
 
-.frame .div {
+.frame .group-wrapper {
   background-color: #000000;
   width: 791px;
   height: 482px;
+}
+
+.frame .group {
   position: relative;
+  width: 743px;
+  height: 446px;
+  top: 18px;
+  left: 34px;
 }
 
 .frame .overlap {
   position: absolute;
   width: 168px;
   height: 446px;
-  top: 18px;
-  left: 34px;
+  top: 0;
+  left: 0;
   background-color: #ff4949;
 }
 
 .frame .text-wrapper {
   position: absolute;
   width: 161px;
-  top: 4px;
+  top: 5px;
   left: 4px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -46,10 +53,10 @@
   border-radius: 5px;
 }
 
-.frame .text-wrapper-2 {
+.frame .div {
   position: absolute;
   width: 152px;
-  top: 3px;
+  top: 4px;
   left: 0;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -60,9 +67,9 @@
   line-height: normal;
 }
 
-.frame .text-wrapper-3 {
+.frame .text-wrapper-2 {
   position: absolute;
-  top: 361px;
+  top: 362px;
   left: 21px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -78,8 +85,8 @@
   position: absolute;
   width: 252px;
   height: 188px;
-  top: 18px;
-  left: 237px;
+  top: 0;
+  left: 203px;
   border-radius: 20px;
 }
 
@@ -94,11 +101,11 @@
   opacity: 0.9;
 }
 
-.frame .text-wrapper-4 {
+.frame .text-wrapper-3 {
   width: 229px;
   left: 12px;
   position: absolute;
-  top: 4px;
+  top: 5px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
   color: #ffffff;
@@ -139,9 +146,9 @@
   border-radius: 5px;
 }
 
-.frame .text-wrapper-5 {
+.frame .text-wrapper-4 {
   position: absolute;
-  top: 42px;
+  top: 43px;
   left: 108px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -157,15 +164,15 @@
   position: absolute;
   width: 252px;
   height: 188px;
-  top: 217px;
-  left: 237px;
+  top: 199px;
+  left: 203px;
   border-radius: 20px;
 }
 
-.frame .text-wrapper-6 {
+.frame .text-wrapper-5 {
   position: absolute;
   width: 247px;
-  top: 1px;
+  top: 2px;
   left: 3px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -207,9 +214,9 @@
   border-radius: 5px;
 }
 
-.frame .text-wrapper-7 {
+.frame .text-wrapper-6 {
   position: absolute;
-  top: 41px;
+  top: 42px;
   left: 95px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -225,14 +232,14 @@
   position: absolute;
   width: 252px;
   height: 188px;
-  top: 217px;
-  left: 497px;
+  top: 199px;
+  left: 463px;
   border-radius: 20px;
 }
 
-.frame .text-wrapper-8 {
+.frame .text-wrapper-7 {
   position: absolute;
-  top: 1px;
+  top: 2px;
   left: 40px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -254,9 +261,9 @@
   border-radius: 15px;
 }
 
-.frame .text-wrapper-9 {
+.frame .text-wrapper-8 {
   position: absolute;
-  top: 144px;
+  top: 145px;
   left: 33px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -288,9 +295,9 @@
   border-radius: 15px;
 }
 
-.frame .text-wrapper-10 {
+.frame .text-wrapper-9 {
   position: absolute;
-  top: 61px;
+  top: 62px;
   left: 33px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -302,9 +309,9 @@
   white-space: nowrap;
 }
 
-.frame .text-wrapper-11 {
+.frame .text-wrapper-10 {
   position: absolute;
-  top: 103px;
+  top: 104px;
   left: 33px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
@@ -320,15 +327,15 @@
   position: absolute;
   width: 252px;
   height: 188px;
-  top: 18px;
-  left: 497px;
+  top: 0;
+  left: 463px;
   border-radius: 20px;
 }
 
-.frame .text-wrapper-12 {
+.frame .text-wrapper-11 {
   left: 27px;
   position: absolute;
-  top: 4px;
+  top: 5px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
   color: #ffffff;
@@ -349,9 +356,9 @@
   border-radius: 5px;
 }
 
-.frame .text-wrapper-13 {
+.frame .text-wrapper-12 {
   position: absolute;
-  top: 42px;
+  top: 43px;
   left: 102px;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
