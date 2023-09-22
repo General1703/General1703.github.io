@@ -1,31 +1,24 @@
 .frame {
-  background-color: #000000;
+  background-color: #343434;
   display: flex;
   flex-direction: row;
   justify-content: center;
   width: 100%;
 }
 
-.frame .frame-wrapper {
-  background-color: #000000;
+.frame .div {
+  background-color: #343434;
   width: 791px;
   height: 482px;
-}
-
-.frame .div {
   position: relative;
-  width: 766px;
-  height: 456px;
-  top: 15px;
-  left: 13px;
 }
 
 .frame .overlap {
   position: absolute;
   width: 168px;
   height: 446px;
-  top: 3px;
-  left: 21px;
+  top: 18px;
+  left: 19px;
   background-color: #ff4949;
 }
 
@@ -85,8 +78,8 @@
   position: absolute;
   width: 252px;
   height: 188px;
-  top: 3px;
-  left: 224px;
+  top: 18px;
+  left: 222px;
   border-radius: 20px;
 }
 
@@ -164,8 +157,8 @@
   position: absolute;
   width: 252px;
   height: 188px;
-  top: 202px;
-  left: 224px;
+  top: 217px;
+  left: 222px;
   border-radius: 20px;
 }
 
@@ -228,12 +221,12 @@
   white-space: nowrap;
 }
 
-.frame .overlap-group-2 {
+.frame .overlap-4 {
   position: absolute;
   width: 252px;
   height: 188px;
-  top: 202px;
-  left: 484px;
+  top: 217px;
+  left: 482px;
   border-radius: 20px;
 }
 
@@ -323,12 +316,12 @@
   white-space: nowrap;
 }
 
-.frame .overlap-4 {
+.frame .overlap-group-2 {
   position: absolute;
   width: 252px;
   height: 188px;
-  top: 3px;
-  left: 484px;
+  top: 18px;
+  left: 482px;
   border-radius: 20px;
 }
 
