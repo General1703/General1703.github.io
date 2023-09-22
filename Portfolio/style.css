@@ -360,7 +360,6 @@ p {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 	color: white;
 	text-align: center; /* Center text horizontally */
 }
